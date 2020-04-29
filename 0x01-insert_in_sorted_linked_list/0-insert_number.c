@@ -3,10 +3,10 @@
 #include "lists.h"
 
  /**
-  * insert_node - Adds a new node at the right position.
-  * @head: Pointer of the first node of listint_t list.
-  * @number: Integer to be included in new node.
-  * Return: Address of the new element or NULL if it fails.
+  * insert_node - Adds a new node.
+  * @head: Pointer of the first node.
+  * @number: Integer.
+  * Return: The address of the new node, or NULL if it failed.
   */
 
 listint_t *insert_node(listint_t **head, int number)
