@@ -5,7 +5,7 @@
  /**
   * insert_node - Adds a new node.
   * @head: Pointer of the first node.
-  * @number: Integer.
+  * @number: Number to insert.
   * Return: The address of the new node, or NULL if it failed.
   */
 
@@ -16,7 +16,7 @@ listint_t *insert_node(listint_t **head, int number)
 
 	current = *head;
 	new = malloc(sizeof(listint_t));
-	if (new == NULL)
+	if (new == NULL || head == NULL)
 		return (NULL);
 
 	new->n = number;
