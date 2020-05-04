@@ -29,7 +29,7 @@ struct binary_tree_s
 typedef struct binary_tree_s heap_t;
 ```
 ## Print function
-To match the examples in the tasks, you are given this function
+To match the examples in the tasks, you are given [this function](https://github.com/holbertonschool/0x1C.c)
 This function is used only for visualisation purpose. You dont have to push it to your repo. It may not be used during the correction
 
 ## Tasks
@@ -174,6 +174,6 @@ alex@/tmp/binary_trees$
 ```
 </details>
 
-##Author
+## Author
 
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
