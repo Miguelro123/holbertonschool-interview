@@ -1,8 +1,6 @@
 # 0x02. Heap Insert
 Specializations - Interview Preparation  Algorithms
 
-## More Info
-
 ## Data structures
 
 Please use the following data structures and types for binary trees. Dont forget to include them in your header file.
@@ -47,7 +45,7 @@ This function is used only for visualisation purpose. You dont have to push it t
 - When created, a node does not have any children
 - Your function must return a pointer to the new node, or NULL on failure
 ```
-alex@/tmp/binary_trees$ cat 0-main.c 
+alex@/tmp/binary_trees$ cat 0-main.c
 #include <stdlib.h>
 #include "binary_trees.h"
 
@@ -175,4 +173,7 @@ Inserted: 50
 alex@/tmp/binary_trees$
 ```
 </details>
+
+##Author
+
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
