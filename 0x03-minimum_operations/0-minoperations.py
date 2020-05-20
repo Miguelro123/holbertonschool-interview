@@ -15,4 +15,3 @@ def minOperations(n):
         else:
             p = p + 1
     return integer
-
