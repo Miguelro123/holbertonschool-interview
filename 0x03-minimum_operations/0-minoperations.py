@@ -10,6 +10,6 @@ def minOperations(n):
         if n % p == 0:
             n = n / p
             integer = integer + p
-        else:
-            p = p + 1
-    return integer
+            else:
+                p = p + 1
+      return integer
