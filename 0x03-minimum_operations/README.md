@@ -14,6 +14,7 @@ Specializations - Interview Preparation  Algorithms
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 </details>
+
 ## Tasks
 ### [0. Minimum Operations](./0-minoperations.py)
 In a text file, there is a single character `H`. Your text editor can execute only two operations in this file: `Copy All` and `Paste`.
