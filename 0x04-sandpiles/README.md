@@ -19,7 +19,7 @@ Specializations - Interview Preparation ― Algorithms
 *   You are not allowed to use global variables
 *   No more than 5 functions per file
 *   In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
-*   The prototypes of all your functions should be included in your header file called `lists.h`
+*   The prototypes of all your functions should be included in your header file called `sandpiles.h`
 *   Don’t forget to push your header file
 *   All your header files should be include guarded
 </details>
@@ -28,11 +28,11 @@ Specializations - Interview Preparation ― Algorithms
 ### [0. Sandpiles sum](./0-sandpiles.c)
 Write a function that computes the sum of two sandpiles
 
-- Prototype: void sandpiles_sum(int grid1[3][3], int grid2[3][3]);
-- You can assume that both grid1 and grid2 are individually stable
-- A sandpile is considered stable when none of its cells contains more than 3 grains
-- When your function is done, grid1 must be stable
-- grid1 must be printed before each toppling round, only if it is unstable (See example)
+- Prototype: `void sandpiles_sum(int grid1[3][3], int grid2[3][3]);`
+- You can assume that both `grid1` and `grid2` are individually **stable**
+- A sandpile is considered **stable** when none of its cells contains more than 3 grains
+- When your function is done, `grid1` must be **stable**
+- `grid1` must be printed before each toppling round, only if it is unstable (See example)
 - You’re not allowed to allocate memory dynamically
 ```
 alex@~/0x04-sandpiles$ cat 0-main.c 
@@ -162,10 +162,9 @@ alex@~/0x04-sandpiles$ ./0-sandpiles
 alex@~/0x04-sandpiles$
 ```
 **Repo:**
-
-GitHub repository: `holbertonschool-interview`
-Directory: `0x04-sandpiles`
-File: `0-sandpiles.c`
+* GitHub repository: `holbertonschool-interview`
+* Directory: `0x04-sandpiles`
+* File: `0-sandpiles.c`
 ## Author
 
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
