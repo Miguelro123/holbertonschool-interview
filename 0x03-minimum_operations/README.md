@@ -4,7 +4,7 @@ Specializations - Interview Preparation  Algorithms
 ## Requirements
 <details>
 <summary>View Contents</summary>
-  
+ 
 ### General
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
@@ -14,9 +14,7 @@ Specializations - Interview Preparation  Algorithms
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 </details>
-
 ## Tasks
-
 ### [0. Minimum Operations](./0-minoperations.py)
 In a text file, there is a single character `H`. Your text editor can execute only two operations in this file: `Copy All` and `Paste`.
 Given a number n, write a method that calculates the fewest number of operations needed to result in exactly `n` `H` characters in the file.
@@ -54,3 +52,6 @@ carrie@ubuntu:~/0x03-minoperations$
 * GitHub repository: `holbertonschool-interview`
 * Directory: `0x03-minimum_operations`
 * File: `0-minoperations.py`
+## Author
+
+- **Migue** - [Miguelro123](https://github.com/Miguelro123)
