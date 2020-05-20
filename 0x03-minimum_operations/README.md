@@ -7,12 +7,12 @@ Specializations - Interview Preparation  Algorithms
 <summary>View Contents</summary>
 ### General
 
-- Allowed editors: vi, vim, emacs
-- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using python3 (version 3.4.3)
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
 - All your files should end with a new line
-- The first line of all your files should be exactly #!/usr/bin/python3
-- A README.md file, at the root of the folder of the project, is mandatory
-- Your code should use the PEP 8 style (version 1.7.x)
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 </details>
 
@@ -20,18 +20,17 @@ Specializations - Interview Preparation  Algorithms
 
 ### [0. Minimum Operations](./0-minoperations.py)
 
-In a text file, there is a single character H. Your text editor can execute only two operations in this file: Copy All and Paste.
-Given a number n, write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file.
+In a text file, there is a single character `H`. Your text editor can execute only two operations in this file: `Copy All` and `Paste`.
+Given a number n, write a method that calculates the fewest number of operations needed to result in exactly `n` `H` characters in the file.
 
-* Prototype: def minOperations(n)
+* Prototype: `def minOperations(n)`
 * Returns an integer
-* If n is impossible to achieve, return 0
+* If `n` is impossible to achieve, return `0`
 **Example:**
-n = 9
+`n = 9`
+`H` => `Copy All` => `Paste` => `HH` => `Paste` =>`HHH` => `Copy All` => `Paste` => `HHHHHH` =>`Paste` => `HHHHHHHHH`
 
-H => Copy All => Paste => HH => Paste =>HHH => Copy All => Paste => HHHHHH => Paste => HHHHHHHHH
-
-Number of operations: 6
+Number of operations: `6`
 ```
 carrie@ubuntu:~/0x03-minoperations$ cat 0-main.py
 #!/usr/bin/python3
@@ -56,6 +55,6 @@ Min number of operations to reach 12 characters: 7
 carrie@ubuntu:~/0x03-minoperations$
 ```
 **Repo:**
-* GitHub repository: holbertonschool-interview
-* Directory: 0x03-minimum_operations
-* File: 0-minoperations.py
+* GitHub repository: `holbertonschool-interview`
+* Directory: `0x03-minimum_operations`
+* File: `0-minoperations.py`
