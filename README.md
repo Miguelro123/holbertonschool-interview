@@ -1,6 +1,6 @@
  # Web Development Front-End :computer:
 
-  This repository contains programs for the Web Development Front-End curriculum at Holberton School.
+  This repository contains programs for the Web Development Front-End.
 
   # Projects
   Projects | Description
