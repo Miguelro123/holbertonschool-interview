@@ -12,6 +12,7 @@
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 </details>
+
 ## Tasks
 
 ### [0. Lockboxes](./0-lockboxes.py)
