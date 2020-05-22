@@ -1,9 +1,4 @@
 # 0x04. Sandpiles
-
-## Resources
-**Read or watch:**
-* [Sandpiles - Numberphile](https://www.youtube.com/watch?v=1MtEUErz7Gg)
-
 ## Requirements
 <details>
 <summary>View Contents</summary>
