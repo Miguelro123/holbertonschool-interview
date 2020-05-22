@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="260" height="170" src="https://davidjohncoleman.com/wp-djc/wp-content/uploads/2017/06/HBTN-Borderless-CMYK-Logo-Vertical-Color-Black@1200ppi-300x236.png">
-  </p>
-
-  # Web Development Front-End :computer:
+ # Web Development Front-End :computer:
 
   This repository contains programs for the Web Development Front-End curriculum at Holberton School.
 
@@ -10,6 +6,11 @@
   Projects | Description
   ----------- | -----------
   [Lockboxes](./0x00-lockboxes) | Write a method that determines if all the boxes can be opened.
+  [Insert_in_sorted_linked_list](./0x01-insert_in_sorted_linked_list) | Write a function in C that inserts a number into a sorted singly linked list.
+  [heap_insert](./0x02-heap_insert) | Write a function that creates a binary tree node.
+  [minimum_operations](./0x03-minimum_operations) | Write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file.
+  [sandpiles](./0x04-sandpiles) | Write a function that computes the sum of two sandpiles.
+
 
   ## Author
 
