@@ -1,12 +1,18 @@
 # 0x00. Lockboxes
-
-Specializations - Interview Preparation  Algorithms
-
-## Tasks
-
+## Requirements
 <details>
 <summary>View Contents</summary>
 
+### General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
+- All your files should end with a new line
+- The first line of all your files should be exactly `#!/usr/bin/python3`
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `PEP 8` style (version 1.7.x)
+- All your files must be executable
+</details>
+## Tasks
 ### [0. Lockboxes](./0-lockboxes.py)
 
 You have `n` number of locked boxes in front of you. Each box is numbered sequentially from `0` to `n - 1` and each box may contain keys to the other boxes.
@@ -43,15 +49,11 @@ Write a method that determines if all the boxes can be opened.
     False
     carrie@ubuntu:~/0x00-lockboxes$
 ```
-
 **Repo:**
 
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x00-lockboxes`
 *   File: `0-lockboxes.py`
-
-</details>
-
 ## Author
 
 - **Migue** - [Miguelro123](https://github.com/Miguelro123)
