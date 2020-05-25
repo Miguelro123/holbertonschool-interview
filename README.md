@@ -12,6 +12,9 @@
   [sandpiles](./0x04-sandpiles) | Write a function that computes the sum of two sandpiles.
 
 
-  ## Author
+## Author
+### _Miguel Rodríguez_
 
-  - **Migue** - [Miguelro123](https://github.com/Miguelro123)
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
+
