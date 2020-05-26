@@ -1,4 +1,3 @@
-  
 #include "sandpiles.h"
 /**
 * p - Prints a grid.
