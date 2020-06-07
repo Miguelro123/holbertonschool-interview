@@ -12,6 +12,8 @@
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 
+---
+
 ## Tasks
 
 <details>
@@ -63,6 +65,8 @@ carrie@ubuntu:~/0x03-minoperations$
 * File: `0-minoperations.py`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
