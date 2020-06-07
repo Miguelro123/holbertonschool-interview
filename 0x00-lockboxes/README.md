@@ -11,6 +11,8 @@
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
 
+---
+
 ## Tasks
 
 <details>
@@ -59,6 +61,8 @@ Write a method that determines if all the boxes can be opened.
 *   File: `0-lockboxes.py`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
