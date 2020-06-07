@@ -2,6 +2,8 @@
 
   This repository contains programs for the Web Development Front-End.
 
+---
+
   # Projects
   Projects | Description | Date and time
   ----------- | ----------- | -----------
@@ -11,6 +13,8 @@
   [Minimum_operations](./0x03-minimum_operations) | Write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file. | 06/05/2020, 8 days
   [Sandpiles](./0x04-sandpiles) | Write a function that computes the sum of two sandpiles. | 13/05/2020, 15 days
   [Linked list palindrome](./0x05-linked_list_palindrome) | Write a function in C that checks if a singly linked list is a palindrome. | 20/05/2020, 9 days
+
+---
 
 ## Author
 ### _Edagr Miguel Rodríguez G._
