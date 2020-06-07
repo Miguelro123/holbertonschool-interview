@@ -16,6 +16,8 @@
 - Don’t forget to push your header file
 - All your header files should be include guarded
 
+---
+
 ## Tasks
 
 <details>
@@ -202,6 +204,8 @@ carrie@ubuntu:0x03$
 * File: `0-is_palindrome.c, lists.h`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
