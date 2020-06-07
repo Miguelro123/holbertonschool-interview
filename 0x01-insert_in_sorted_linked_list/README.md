@@ -14,6 +14,8 @@
 - Dont forget to push your header file
 - All your header files should be include guarded
 
+---
+
 ## Tasks
 
 <details>
@@ -204,6 +206,8 @@ carrie@ubuntu:0x01$
 * File: `0-insert_number.c, lists.h`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
