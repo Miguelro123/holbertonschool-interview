@@ -22,6 +22,8 @@
 *   Don’t forget to push your header file
 *   All your header files should be include guarded
 
+---
+
 ## Tasks
 
 <details>
@@ -171,6 +173,8 @@ alex@~/0x04-sandpiles$
 * File: `0-sandpiles.c`
 
 </details>
+
+---
 
 ## Author
 ### _Edgar Miguel Rodríguez G._
