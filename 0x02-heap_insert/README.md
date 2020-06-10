@@ -1,11 +1,30 @@
 # 0x02. Heap Insert
-Specializations - Interview Preparation  Algorithms
 
-## Data structures
+## Requirements
+
+### General
+
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be compiled on Ubuntu 14.04 LTS
+- Your programs and functions will be compiled with `gcc 4.8.4` using the flags `-Wall` `-Werror` `-Wextra` and `-pedantic`
+- All your files should end with a new line
+- A `README.md` file, at the root of the folder of the project, is mandatory
+- Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/holbertonschool/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/holbertonschool/Betty/blob/master/betty-doc.pl)
+- You are not allowed to use global variables
+- No more than 5 functions per file
+- You are allowed to use the standard library
+- In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+- The prototypes of all your functions should be included in your header file called `binary_trees.h`
+- Don’t forget to push your header file
+- All your header files should be include guarded
+
+## More Info
+
+### Data structures
 
 Please use the following data structures and types for binary trees. Dont forget to include them in your header file.
 
-### Basic Binary Tree
+**Basic Binary Tree**
 
 ```
 /**
@@ -24,14 +43,17 @@ struct binary_tree_s
     struct binary_tree_s *right;
 };
 ```
-### Max Binary Heap
+**Max Binary Heap**
 ```
 typedef struct binary_tree_s heap_t;
 ```
-## Print function
+### Print function
+
 To match the examples in the tasks, you are given [this function](https://github.com/holbertonschool/0x1C.c)
 
 This function is used only for visualisation purpose. You dont have to push it to your repo. It may not be used during the correction
+
+---
 
 ## Tasks
 
@@ -39,12 +61,14 @@ This function is used only for visualisation purpose. You dont have to push it t
 <summary>View Contents</summary>
 
 ### [0. New node](./0-binary_tree_node.c)
-*Write a function that creates a binary tree node:
-- Prototype: binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
-- parent is a pointer to the parent node of the node to create
-- value is the value to put in the new node
+
+Write a function that creates a binary tree node:
+
+- Prototype: `binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);`
+- `parent` is a pointer to the parent node of the node to create
+- `value` is the value to put in the new node
 - When created, a node does not have any children
-- Your function must return a pointer to the new node, or NULL on failure
+- Your function must return a pointer to the new node, or `NULL` on failure
 ```
 alex@/tmp/binary_trees$ cat 0-main.c
 #include <stdlib.h>
@@ -79,16 +103,26 @@ alex@/tmp/binary_trees$ ./0-node
 (006)     (016)     (256)     (512)
 alex@/tmp/binary_trees$
 ```
+
+**Repo:**
+
+* GitHub repository: `holbertonschool-interview`
+* Directory: `0x02-heap_insert`
+* File: `0-binary_tree_node.c`
+
 ### [1. Heap - Insert](./1-heap_insert.c)
-*Write a function that inserts a value into a Max Binary Heap:
-- Prototype: heap_t *heap_insert(heap_t **root, int value)
-- root is a double pointer to the root node of the Heap
-- value is the value store in the node to be inserted
-- Your function must return a pointer to the inserted node, or NULL on failure
-- If the address stored in root is NULL, the created node must become the root node.
-- You have to respect a Max Heap ordering
-- You are allowed to have up to 6 functions in your file
-Your file 0-binary_tree_node.c will be compiled during the correction
+
+Write a function that inserts a value into a Max Binary Heap:
+
+- Prototype: `heap_t *heap_insert(heap_t **root, int value)`
+- `root` is a double pointer to the root node of the Heap
+- `value` is the value store in the node to be inserted
+- Your function must return a pointer to the inserted node, or `NULL` on failure
+- If the address stored in `root` is `NULL`, the created node must become the root node.
+- You have to respect a `Max Heap` ordering
+- You are allowed to have up to `6` functions in your file
+
+Your file `0-binary_tree_node.c` will be compiled during the correction
 ```
 alex@/tmp/binary_trees$ cat 1-main.c
 #include <stdlib.h>
@@ -173,8 +207,19 @@ Inserted: 50
 (046)
 alex@/tmp/binary_trees$
 ```
+
+**Repo:**
+
+* GitHub repository: `holbertonschool-interview`
+* Directory: `0x02-heap_insert`
+* File: `1-heap_insert.c, 0-binary_tree_node.c`
+
 </details>
 
-## Author
+---
 
-- **Migue** - [Miguelro123](https://github.com/Miguelro123)
+## Author
+### _Edgar Miguel Rodríguez G._
+
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)

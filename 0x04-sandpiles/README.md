@@ -1,10 +1,12 @@
 # 0x04. Sandpiles
+
 ## Resources
+
 **Read or watch:**
+
 * [Sandpiles - Numberphile](https://www.youtube.com/watch?v=1MtEUErz7Gg)
+
 ## Requirements
-<details>
-<summary>View Contents</summary>
 
 ### General
 
@@ -19,10 +21,16 @@
 *   The prototypes of all your functions should be included in your header file called `sandpiles.h`
 *   Don’t forget to push your header file
 *   All your header files should be include guarded
-</details>
+
+---
 
 ## Tasks
+
+<details>
+<summary>View Contents</summary>
+
 ### [0. Sandpiles sum](./0-sandpiles.c)
+
 Write a function that computes the sum of two sandpiles
 
 - Prototype: `void sandpiles_sum(int grid1[3][3], int grid2[3][3]);`
@@ -159,9 +167,17 @@ alex@~/0x04-sandpiles$ ./0-sandpiles
 alex@~/0x04-sandpiles$
 ```
 **Repo:**
+
 * GitHub repository: `holbertonschool-interview`
 * Directory: `0x04-sandpiles`
 * File: `0-sandpiles.c`
-## Author
 
-- **Migue** - [Miguelro123](https://github.com/Miguelro123)
+</details>
+
+---
+
+## Author
+### _Edgar Miguel Rodríguez G._
+
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)

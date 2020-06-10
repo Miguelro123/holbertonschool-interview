@@ -1,7 +1,6 @@
 # 0x00. Lockboxes
+
 ## Requirements
-<details>
-<summary>View Contents</summary>
 
 ### General
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -11,9 +10,13 @@
 - A `README.md` file, at the root of the folder of the project, is mandatory
 - Your code should use the `PEP 8` style (version 1.7.x)
 - All your files must be executable
-</details>
+
+---
 
 ## Tasks
+
+<details>
+<summary>View Contents</summary>
 
 ### [0. Lockboxes](./0-lockboxes.py)
 
@@ -56,6 +59,13 @@ Write a method that determines if all the boxes can be opened.
 *   GitHub repository: `holbertonschool-interview`
 *   Directory: `0x00-lockboxes`
 *   File: `0-lockboxes.py`
-## Author
 
-- **Migue** - [Miguelro123](https://github.com/Miguelro123)
+</details>
+
+---
+
+## Author
+### _Edgar Miguel Rodríguez G._
+
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
