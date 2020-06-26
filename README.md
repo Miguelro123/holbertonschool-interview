@@ -17,6 +17,7 @@
   0x06 | [Log Parsing](./0x06-log_parsing) | Write a script that reads stdin line by line and computes metrics. | 28/05/2020, 15 days
   0x07 | [Linked list cycle](./0x07-linked_list_cycle) | Write a function in C that checks if a singly linked list has a cycle in it. | 04/06/2020, 8 days
   0x08 | [Palindrome integer](./0x08-palindrome_integer) | Write a function that checks whether or not a given unsigned integer is a palindrome. | 11/06/2020, 8 days
+  0x09 | [UTF-8 Validation](./0x09-utf8_validation) | Write a method that determines if a given data set represents a valid UTF-8 encoding. | 18/06/2020, 15 days
   
 ---
 
