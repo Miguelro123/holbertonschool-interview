@@ -20,6 +20,7 @@
   0x09 | [UTF-8 Validation](./0x09-utf8_validation) | Write a method that determines if a given data set represents a valid UTF-8 encoding. | 18/06/2020, 15 days
   0x0A | [2048 (single line)](./0x0A-slide_line) | The goal of this task is to reproduce the 2048 game(NSFW !!) mechanics on a single horizontal line. | 25/06/2020, 8 days
   0x0B | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x0C | [N Queens](./0x0C-nqueens) | Write a function that draws a 2D Menger Sponge. | 23/07/2020, 15 days
   
 ---
 
