@@ -1,4 +1,3 @@
-  
 #!/usr/bin/python3
 '''Module N Queens
    b: The b state.
