@@ -85,3 +85,11 @@ Found 999 at index: -1
 * GitHub repository: `holbertonschool-interview`
 * Directory: `0x12-advanced_binary_search`
 * File: `0-advanced_binary.c`
+
+---
+
+## Author
+### _Edgar Miguel Rodríguez G._
+
+- **Github:** [Miguelro123](https://github.com/Miguelro123) 
+- **Linkedin:** [Edgar Miguel Rodriguez Garcia](https://www.linkedin.com/in/edgar-miguel-rodriguez-garcia-20a5281a2/)
