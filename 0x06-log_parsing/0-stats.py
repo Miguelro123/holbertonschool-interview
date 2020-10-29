@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""prints metrics"""
+"""prints logs"""
 import sys
 
 
