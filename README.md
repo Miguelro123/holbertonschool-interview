@@ -22,12 +22,12 @@
   0x0B | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
   0x0C | [N Queens](./0x0C-nqueens) | The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem. | 23/07/2020, 15 days
   0x0D | [Array to AVL](./0x0D-sorted_array_to_avl) | Write a function that builds an AVL tree from an array. | 30/07/2020, 8 days
-  0x0E | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
-  0x0F | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
-  0x12 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
-  0x13 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
-  0x14 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
-  0x15 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x0E | [Linear search in skip list](./0x0E-linear_skip) | Write a function that searches for a value in a sorted skip list of integers. | 06/08/2020, 8 days
+  0x0F | [Star Wars API](./0x0F-starwars_api) | Write a script that prints all characters of a Star Wars movie. | 13/08/2020, 8 days
+  0x12 | [Advanced Binary Search](./0x12-advanced_binary_search) | Write a function that searches for a value in a sorted array of integers. | 03/09/2020, 8 days
+  0x13 | [Count it!](./0x13-count_it) | Write a recursive function that queries the Reddit API. | 10/09/2020, 8 days
+  0x14 | [Heap Extract](./0x14-heap_extract) | Write a function that extracts the root node of a Max Binary Heap. | 17/09/2020, 8 days
+  0x15 | [Infinite Multiplication](./0x15-infinite_multiplication) | Write a program that multiplies two positive numbers. | 24/09/2020, 8 days
   
 ---
 
