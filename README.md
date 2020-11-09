@@ -8,7 +8,7 @@
   
   Number | Projects | Description | Date and time
   ----------- | ----------- | ----------- | -----------
-  0x00 | [Lockboxes](./0x00-lockboxes) | Write a method that determines if all the boxes can be opened. | 15/04/2020, 8 days
+  0x00 | [Lockboxes](./0x00-lockboxes) | Write a method that determines if all the boxes can be open | 15/04/2020, 8 days
   0x01 | [Insert_in_sorted_linked_list](./0x01-insert_in_sorted_linked_list) | Write a function in C that inserts a number into a sorted singly linked list. | 22/04/2020, 8 days
   0x02 | [Heap_insert](./0x02-heap_insert) | Write a function that creates a binary tree node. | 29/04/2020, 7 days
   0x03 | [Minimum_operations](./0x03-minimum_operations) | Write a method that calculates the fewest number of operations needed to result in exactly n H characters in the file. | 06/05/2020, 8 days
@@ -21,6 +21,13 @@
   0x0A | [2048 (single line)](./0x0A-slide_line) | The goal of this task is to reproduce the 2048 game(NSFW !!) mechanics on a single horizontal line. | 25/06/2020, 8 days
   0x0B | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
   0x0C | [N Queens](./0x0C-nqueens) | The N queens puzzle is the challenge of placing N non-attacking queens on an N×N chessboard. Write a program that solves the N queens problem. | 23/07/2020, 15 days
+  0x0D | [Array to AVL](./0x0D-sorted_array_to_avl) | Write a function that builds an AVL tree from an array. | 30/07/2020, 8 days
+  0x0E | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x0F | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x12 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x13 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x14 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
+  0x15 | [Menger sponge](./0x0B-menger) | Write a function that draws a 2D Menger Sponge. | 02/07/2020, 8 days
   
 ---
 
