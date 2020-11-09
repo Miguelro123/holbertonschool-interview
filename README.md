@@ -24,6 +24,7 @@
   0x0D | [Array to AVL](./0x0D-sorted_array_to_avl) | Write a function that builds an AVL tree from an array. | 30/07/2020, 8 days
   0x0E | [Linear search in skip list](./0x0E-linear_skip) | Write a function that searches for a value in a sorted skip list of integers. | 06/08/2020, 8 days
   0x0F | [Star Wars API](./0x0F-starwars_api) | Write a script that prints all characters of a Star Wars movie. | 13/08/2020, 8 days
+   0x10 | [Rain](./0x10-rain) | Given a list of non-negative integers representing walls of width 1, calculate how much water will be retained after it rains. | 20/08/2020, 8 days
   0x12 | [Advanced Binary Search](./0x12-advanced_binary_search) | Write a function that searches for a value in a sorted array of integers. | 03/09/2020, 8 days
   0x13 | [Count it!](./0x13-count_it) | Write a recursive function that queries the Reddit API. | 10/09/2020, 8 days
   0x14 | [Heap Extract](./0x14-heap_extract) | Write a function that extracts the root node of a Max Binary Heap. | 17/09/2020, 8 days
