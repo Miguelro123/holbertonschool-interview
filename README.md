@@ -30,6 +30,8 @@
   0x13 | [Count it!](./0x13-count_it) | Write a recursive function that queries the Reddit API. | 10/09/2020, 8 days
   0x14 | [Heap Extract](./0x14-heap_extract) | Write a function that extracts the root node of a Max Binary Heap. | 17/09/2020, 8 days
   0x15 | [Infinite Multiplication](./0x15-infinite_multiplication) | Write a program that multiplies two positive numbers. | 24/09/2020, 8 days
+  0x16 | [Rotate 2D Matrix](./0x16-rotate_2d_matrix) | Given an n x n 2D matrix, rotate it 90 degrees clockwise. | 01/10/2020, 8 days
+  0x17 | [Find the Loop](./0x17-find_the_loop) | Write a function that finds the loop in a linked list. | 08/10/2020, 8 days
   
 ---
 
